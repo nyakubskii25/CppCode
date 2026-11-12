@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Layer 2/Layer 2.vcxproj" Id="05c91dd7-4197-4d6a-b938-ae7d7664cf40" />
+  <Project Path="Layer 1.vcxproj" Id="237d7ec5-a195-481e-85b5-695366602c4d" />
+</Solution>

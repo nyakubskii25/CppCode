@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Layer 1\\x64\\Debug\\Layer 1.obj",
+            "outputs": [
+                "Layer 1\\x64\\Debug\\Layer 1.cpp.obj.dt.module.json",
+                "Layer 1\\x64\\Debug\\Layer 1.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

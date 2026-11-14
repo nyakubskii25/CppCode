@@ -1,0 +1,5 @@
+﻿  Header.cpp
+C:\Users\Vl\source\repos\Maze Project\maze project\Header.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  maze project.vcxproj -> C:\Users\Vl\source\repos\Maze Project\maze project\x64\Debug\maze project.exe

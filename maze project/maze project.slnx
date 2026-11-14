@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="maze project.vcxproj" Id="237d7ec5-a195-481e-85b5-695366602c4d" />
+</Solution>

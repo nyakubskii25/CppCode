@@ -1,2 +1,29 @@
 .vs
 ".vs/" 
+# Visual Studio service folders
+.vs/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+
+# Intermediate build and debug files
+*.idb
+*.pdb
+*.obj
+*.ilk
+*.pch
+*.ipch
+*.tlog
+*.log
+*.lastbuildstate
+*.exe
+*.dll
+*.lib
+*.exp
+
+# User-specific settings
+*.user
+*.suo

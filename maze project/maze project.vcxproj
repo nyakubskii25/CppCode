@@ -140,11 +140,29 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Header.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="generator.cpp" />
+    <ClCompile Include="inventory.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="maze.cpp" />
+    <ClCompile Include="messagelog.cpp" />
+    <ClCompile Include="platform.cpp" />
+    <ClCompile Include="scores.cpp" />
+    <ClCompile Include="artifacts.cpp" />
+    <ClCompile Include="ui.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="artifacts.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="generator.h" />
+    <ClInclude Include="grid.h" />
+    <ClInclude Include="inventory.h" />
+    <ClInclude Include="maze.h" />
+    <ClInclude Include="messagelog.h" />
+    <ClInclude Include="platform.h" />
+    <ClInclude Include="scores.h" />
+    <ClInclude Include="types.h" />
+    <ClInclude Include="ui.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

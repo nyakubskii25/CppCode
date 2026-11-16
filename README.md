@@ -25,7 +25,7 @@ C++ with the standard library. The Windows console is used for the keyboard (`co
 
 ## 📄 Documents
 
-- [Documentation]([Documentation/CppCode_Documentation.docx](https://github.com/nyakubskii25/CppCode/blob/main/CppCode_Documentation.docx))
+- [Documentation](https://github.com/nyakubskii25/CppCode/blob/main/CppCode_Documentation.docx)
 - [Presentation](https://github.com/nyakubskii25/CppCode/blob/main/CppCode.pptx) <img src="https://img.shields.io/badge/-PPTX-B7472A?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
 
 ## 🧑‍💻 Team Members
@@ -99,4 +99,4 @@ CppCode/
 
 ## 📚 More
 
-The full description of the game, the levels, the algorithms and the dynamic memory is in the [documentation]([Documentation/CppCode_Documentation.docx](https://github.com/nyakubskii25/CppCode/blob/main/CppCode_Documentation.docx)).
+The full description of the game, the levels, the algorithms and the dynamic memory is in the [documentation](https://github.com/nyakubskii25/CppCode/blob/main/CppCode_Documentation.docx).

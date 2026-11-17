@@ -27,6 +27,7 @@ C++ with the standard library. The Windows console is used for the keyboard (`co
 
 - [Documentation](https://github.com/nyakubskii25/CppCode/blob/main/CppCode_Documentation.docx)
 - [Presentation](https://github.com/nyakubskii25/CppCode/blob/main/CppCode.pptx) <img src="https://img.shields.io/badge/-PPTX-B7472A?logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+- [QA table](https://github.com/nyakubskii25/CppCode/blob/main/Maze_QA_Documentation.xlsx)
 
 ## 🧑‍💻 Team Members
 
